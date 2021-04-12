@@ -6,8 +6,6 @@ At Pixel we use Laravel as a headless API, and have a separated FE that consumes
 
 ## Tech Test
 
----
-
 ### Setup
 
 ```
